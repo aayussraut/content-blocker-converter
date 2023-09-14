@@ -1,0 +1,24 @@
+{
+  "name": "content-blocker-converter",
+  "version": "1.0.0",
+  "description": "A npm package for converting data from StevenBlack/hosts repository to content blocker format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayussraut/content-blocker-format.git"
+  },
+  "keywords": [
+    "content",
+    "blocker",
+    "format"
+  ],
+  "author": "Aayush Raut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayussraut/content-blocker-format/issues"
+  },
+  "homepage": "https://github.com/aayussraut/content-blocker-format#readme"
+}
