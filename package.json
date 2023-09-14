@@ -1,5 +1,6 @@
 {
   "name": "content-blocker-converter",
+  "type": "module",
   "version": "1.0.0",
   "description": "A npm package for converting data from StevenBlack/hosts repository to content blocker format",
   "main": "index.js",
